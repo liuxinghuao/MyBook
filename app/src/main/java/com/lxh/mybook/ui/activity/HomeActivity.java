@@ -23,6 +23,6 @@ public class HomeActivity extends MyBaseActivity<ActivityHomeBinding,HomeViewMod
 
     @Override
     public HomeViewModel initViewModel() {
-        return new HomeViewModel(this);
+        return new HomeViewModel(this,binding.vpHorizontalNtb,binding.ntbHorizontal,getSupportFragmentManager());
     }
 }

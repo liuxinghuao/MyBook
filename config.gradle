@@ -57,6 +57,7 @@ ext {
             "bindingcollectionadapter-recyclerview": "me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0",
             //Google新组件
             "lifecycle-extensions"                 : "android.arch.lifecycle:extensions:1.0.0",
+//            "devlight.io-navigationtabbar"                                      :"devlight.io:navigationtabbar:1.2.5",
     ]
 }
 
