@@ -1,4 +1,4 @@
-package com.goldze.mvvmhabit.binding.twinklingrefreshlayout;
+package com.lxh.mybook.twinklingrefreshlayout;
 
 
 import android.databinding.BindingAdapter;

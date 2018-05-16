@@ -1,9 +1,7 @@
-package com.goldze.mvvmhabit.entity;
+package com.lxh.mybook.entity;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-
-import java.util.List;
 
 /**
  * Created by goldze on 2017/7/17.

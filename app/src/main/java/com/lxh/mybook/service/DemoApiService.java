@@ -1,6 +1,7 @@
-package com.goldze.mvvmhabit.service;
+package com.lxh.mybook.service;
 
-import com.goldze.mvvmhabit.entity.DemoEntity;
+
+import com.lxh.mybook.entity.DemoEntity;
 
 import io.reactivex.Observable;
 import me.goldze.mvvmhabit.http.BaseResponse;

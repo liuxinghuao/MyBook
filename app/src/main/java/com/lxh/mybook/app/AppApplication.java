@@ -1,7 +1,7 @@
-package com.goldze.mvvmhabit.app;
+package com.lxh.mybook.app;
 
-import com.goldze.mvvmhabit.R;
-import com.goldze.mvvmhabit.ui.activity.LoginActivity;
+
+import com.lxh.mybook.R;
 
 import me.goldze.mvvmhabit.base.BaseApplication;
 import me.goldze.mvvmhabit.crash.CaocConfig;
@@ -30,7 +30,7 @@ public class AppApplication extends BaseApplication {
                 .trackActivities(true) //是否跟踪Activity
                 .minTimeBetweenCrashesMs(2000) //崩溃的间隔时间(毫秒)
                 .errorDrawable(R.mipmap.ic_launcher) //错误图标
-                .restartActivity(LoginActivity.class) //重新启动后的activity
+//                .restartActivity(LoginActivity.class) //重新启动后的activity
 //                .errorActivity(YourCustomErrorActivity.class) //崩溃后的错误activity
 //                .eventListener(new YourCustomEventListener()) //崩溃后的错误监听
                 .apply();

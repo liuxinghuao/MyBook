@@ -1,4 +1,4 @@
-package com.goldze.mvvmhabit.entity;
+package com.lxh.mybook.entity;
 
 import me.goldze.mvvmhabit.binding.viewadapter.spinner.IKeyAndValue;
 

@@ -1,9 +1,7 @@
-package com.goldze.mvvmhabit.utils;
+package com.lxh.mybook.utils;
 
 import android.content.Context;
 import android.text.TextUtils;
-
-import org.reactivestreams.Subscriber;
 
 import java.io.File;
 import java.util.Map;
